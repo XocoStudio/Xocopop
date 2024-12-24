@@ -42,9 +42,9 @@ Descarga el ejecutable desde el siguiente enlace:
 ## Capturas de pantalla instalación
 ![Xocopop en acción](Descargar.JPG)
 ![Xocopop en acción](Descargar1.JPG)
-![Xocopop en acción](Descargar2.JPG)
-![Xocopop en acción](Descargar3.JPG)
-![Xocopop en acción](Descargar4.JPG)
+![Xocopop en acción](Descarga2.JPG)
+![Xocopop en acción](Descarga3.JPG)
+![Xocopop en acción](Descarga4.JPG)
 
 
 
