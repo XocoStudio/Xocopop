@@ -39,8 +39,12 @@ Descarga el ejecutable desde el siguiente enlace:
 - **Pausar/Reanudar animación:** Tecla End/Home
 
 
-## Capturas de pantalla
-![Xocopop en acción](https://via.placeholder.com/600x400?text=Xocopop+GIF)
+## Capturas de pantalla instalación
+![Xocopop en acción](Descargar.JPG)
+![Xocopop en acción](Descargar1.JPG)
+![Xocopop en acción](Descargar2.JPG)
+![Xocopop en acción](Descargar3.JPG)
+![Xocopop en acción](Descargar4.JPG)
 
 
 
