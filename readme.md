@@ -38,20 +38,11 @@ Descarga el ejecutable desde el siguiente enlace:
 - **Teclas Q/A:** Saltar rápidamente hacia arriba/abajo.
 - **Pausar/Reanudar animación:** Tecla End/Home
 
-## Personalización
-Para cambiar el GIF o el sonido:
-1. Reemplaza `tu_gif_animado.gif` en la carpeta `_internal`.
-2. Cambia `Video_Game_FX_-_Retro_15.mp3` por cualquier archivo de sonido.
-3. Asegúrate de que el nombre de los archivos coincida con los especificados en el código.
 
 ## Capturas de pantalla
 ![Xocopop en acción](https://via.placeholder.com/600x400?text=Xocopop+GIF)
 
-## Contribuciones
-Si deseas contribuir, realiza un fork del repositorio y abre una solicitud de extracción (Pull Request). Todas las contribuciones son bienvenidas.
 
-## Licencia
-Este proyecto se distribuye bajo la licencia MIT.
 
 ---
 
